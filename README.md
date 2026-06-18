@@ -1,2 +1,2 @@
 # WorksGIS
-a palce to practice web mapping and coding
+a place to practice web mapping and coding
